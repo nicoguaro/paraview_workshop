@@ -2,17 +2,23 @@
 
 This is the repository for the Paraview Workshop at Purdue Unviersity on October 26, 2016.
 
-# Installation Instructions
+Instructor: Nicolas Guarin-Zapta
 
-## Windows
+- email: nguarin@purdue.edu
+- twitter: @nicoguaro
+- github: nicoguaro
+
+## Installation Instructions
+
+### Windows
 
 You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/) (32 or 64 bits) and just run the installer in your machine.
 
-## Mac OS
+### Mac OS
 
 You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/).
 
-## Linux
+### Linux
 
 You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/), then extract the file with
 
@@ -24,6 +30,14 @@ in ``bin/paraview``. You might need to create a link to this file for future use
 
 For major Linux distributions you will find a binary version of Paraview in your software manager. For example, in Ubuntu and Linux Mint you can find version 5.0. It is suggested to use this version.
 
-# License
+
+## Downloading the Tutorial Materials
+You can clone the repo using:
+
+    git clone https://github.com/nicoguaro/paraview_workshop.git
+
+## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](http://choosealicense.com/licenses/cc-by-4.0/), and the source code that accompany the content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+[Data files](./data) ``headsq.vti``, ``can.ex2``, and ``disk_out_ref.ex2`` are under Creative Commons Attribution 2.5 Generic by Kitware.
