@@ -5,13 +5,13 @@
 
 ------------------
 
-## What is Paraview?
+# What is Paraview?
 - Description
 - Example
 
 ------------------
 
-## Tutorial Data
+# Tutorial Data
 
 You can clone the repo using:
 
@@ -23,19 +23,19 @@ Or download as a zip in
 
 ------------------
 
-## Basics of Visualization
+# Basics of Visualization
 
 <img src="../img/Paraview_5.0.png" width=600>
 
 ------------------
 
-## Data Types
+# Data Types
 <img src="../img/Data_types1.png" width=500>
 <img src="../img/Data_types2.png" width=500>
 
 ------------------
 
-## Paraview Graphic Interface
+# Paraview Graphic Interface
 
 <img src="../img/Paraview_5.0.png" width=600>
 
@@ -43,7 +43,7 @@ Or download as a zip in
 
 ------------------
 
-## References
+# References
 
 - [The Paraview Tutorial](http://www.paraview.org/Wiki/The_ParaView_Tutorial)
 - [The Visualization Toolkit]()

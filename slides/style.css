@@ -14,13 +14,17 @@ body
   color: black;
   background-color: white;
   font-family: "Gill Sans MT", "Gill Sans", GillSans, sans-serif;
-  font-size: 30pt;
+  font-size: 14pt;
+}
+
+.slide {
+  font-size: 20pt;
 }
 
 div.toolbar {
   position: fixed; z-index: 200;
   top: auto; bottom: 0; left: 0; right: 0;
-  height: 1.2em; text-align: right;
+  height: 2.0em; text-align: right;
   padding-left: 1em;
   padding-right: 1em; 
   font-size: 60%;
