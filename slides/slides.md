@@ -103,9 +103,10 @@ Or download as a zip in
 
 # Paraview Graphic Interface
 
-<img src="../img/Paraview_5.0.png"
+<img src="../img/Paraview_UI.SVG"
     width=1000
     class="centObj">
+
 ------------------
 
 # Activate Paraview Toolbars
@@ -130,7 +131,31 @@ Or download as a zip in
 <img src="../img/Common_filters.svg"
     width=1000
     class="centObj">
-    
+
+
+------------------
+
+# Exercise 1
+
+
+<img src="../img/Exercise1.png"
+    width=1000
+    class="centObj">
+
+------------------
+
+# Exercise 1: Some steps
+
+1. Open the file ``disk_out_ref.ex2``.
+2. Apply a ``Extract Surface`` filter.
+3. Apply a ``Clip`` filter.
+4. Apply a ``Contour`` filter.
+5. Setup the colormap and details.
+
+<img src="../img/Pipeline.svg"
+    width=800
+    class="centObj">
+
 ------------------
 
 # References
