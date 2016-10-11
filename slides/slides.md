@@ -1,5 +1,8 @@
 % Paraview Tutorial
-% Nicolas Guarin-Zapata<br> @nicoguaro, nguarin@purdue.edu
+% Nicolas Guarin-Zapata
+    email: nguarin@purdue.edu
+    twitter: @nicoguaro
+    github: nicoguaro
 % October 26, 2016
 
 
@@ -14,17 +17,19 @@ From Wikipedia:
 ------------------
 
 # Examples
+
 <img src="../img/point_load_halfspace_ux.png"
-    width=900
-    class="centObj">
-<img src="../img/square_with_hole.png"
     width=900
     class="centObj">
 <img src="../img/cantilever_beam_Sxx.png"
     width=1000
     class="centObj">
+<video controls
+    width=900
+    class="centObj">
+    <source src="../img/square_hole.ogv" type="video/ogg">
+</video> 
 
-    
 ------------------
 
 # Installation
@@ -73,7 +78,14 @@ Or download as a zip in
 <img src="../img/Paraview_5.0.png"
     width=1000
     class="centObj">
+------------------
 
+# Activate Paraview Toolbars
+
+<img src="../img/paraview_toolbars.png"
+    width=800
+    class="centObj">
+    
 ------------------
 
 # Representations
