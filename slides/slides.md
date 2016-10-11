@@ -32,6 +32,15 @@ From Wikipedia:
 
 ------------------
 
+# Examples
+
+More examples at:
+
+- [ParaView's Flickr](https://www.flickr.com/photos/kitware/sets/72157603966390403/); and
+- [Kitware's Vimeo](https://vimeo.com/kitware).
+
+------------------
+
 # Installation
 
 You can download the most recent version of Paraview in the Official website and just run the installer in your machine:
@@ -59,6 +68,25 @@ Or download as a zip in
     width=800
     class="centObj">
 
+------------------
+
+# Why visualize?
+
+<img src="../img/ascombe.svg"
+    width=900
+    class="centObj">
+    
+- Anscombe, Francis J. (1973) Graphs in statistical analysis. American Statistician, 27, 17–21.
+
+  | Property                                  |  Value       |
+  |-------------------------------------------|:------------:|
+  | Mean of each $x$ variable                 | 9.0          |
+  | Variance of each $x$ variable             | 11.0         |
+  | Mean of each $y$ variable                 | 7.5          |
+  | Variance of each $y$ variable             | 4.12         |
+  | Correlation between $x$ and $y$ variables | 0.816        |
+  | Regression line                           | $y=3 + 0.5x$ |
+    
 ------------------
 
 # Data Types
@@ -98,13 +126,17 @@ Or download as a zip in
 
 # Common filters
 
+
 <img src="../img/Common_filters.svg"
-    width=800
+    width=1000
     class="centObj">
     
 ------------------
 
 # References
 
-- [The Paraview Tutorial](http://www.paraview.org/Wiki/The_ParaView_Tutorial)
-- [The Visualization Toolkit]()
+- Kenneth Moreland. [The Paraview Tutorial: Version 5.1](http://www.paraview.org/Wiki/images/f/f7/ParaViewTutorial51.pdf). Sandia National Laboratories/Department of Energy, 2015. Wiki: http://www.paraview.org/Wiki/The_ParaView_Tutorial
+- Niklas Röber. [Paraview Tutorial for Climate Science](mms.dkrz.de/pdf/vis/paraview.pdf). DKRZ, Deutsches Klimarechenzentrum, August 2014.
+- Utkarsh Ayachit. [The ParaView Guide: Community Edition](http://www.paraview.org/paraview-guide/). Kitware Inc, 2015.
+- Will Schroeder, Ken Martin, Bill Lorensen. [The Visualization Toolkit: An Object-Oriented Approach to 3D Graphics](http://www.kitware.com/products/books/VTKTextbook.pdf), Kitware Inc, 4th ed, 2006.
+- Kitware Inc, [The VTK User’s Guide](http://www.kitware.com/products/books/VTKUsersGuide.pdf). Kitware Inc, 11th ed, 2010.
