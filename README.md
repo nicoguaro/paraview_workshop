@@ -36,6 +36,11 @@ You can clone the repo using:
 
     git clone https://github.com/nicoguaro/paraview_workshop.git
 
+## Slides
+The slides for the tutorial are in the folder [``slides``](./slides) in the ``slides.html`` file. They were written in the ``slides.md`` file, and compiled with
+
+     pandoc -t slidy --css style.css -s slides.md -o slides.html
+
 ## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](http://choosealicense.com/licenses/cc-by-4.0/), and the source code that accompany the content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
