@@ -41,6 +41,21 @@ More examples at:
 
 ------------------
 
+# Other visualization software
+
+### Based on VTK
+
+- VTK itself
+- Mayavi
+- VisIt
+
+### Others
+
+- Tecplot
+- Origin
+
+------------------
+
 # Installation
 
 You can download the most recent version of Paraview in the Official website and just run the installer in your machine:
@@ -127,7 +142,6 @@ Or download as a zip in
 
 # Common filters
 
-
 <img src="../img/Common_filters.svg"
     width=1000
     class="centObj">
@@ -137,9 +151,8 @@ Or download as a zip in
 
 # Exercise 1
 
-
 <img src="../img/Exercise1.png"
-    width=1000
+    width=900
     class="centObj">
 
 ------------------
@@ -152,10 +165,30 @@ Or download as a zip in
 4. Apply a ``Contour`` filter.
 5. Setup the colormap and details.
 
+------------------
+
+# Exercise 1: Pipeline
+
 <img src="../img/Pipeline.svg"
-    width=800
+    width=900
     class="centObj">
 
+------------------
+
+# Exercise 2
+
+<img src="../img/Exercise2.png"
+    width=900
+    class="centObj">
+    
+------------------
+
+# Exercise 3
+
+<img src="../img/Exercise3.png"
+    width=900
+    class="centObj">
+    
 ------------------
 
 # References
