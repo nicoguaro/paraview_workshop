@@ -8,6 +8,26 @@
 
 ------------------
 
+# Installation
+
+You can download the most recent version of Paraview in the Official website and just run the installer in your machine:
+
+- [http://www.paraview.org/download/](http://www.paraview.org/download/)
+
+------------------
+
+# Tutorial Data
+
+You can clone the repo using:
+
+    git clone https://github.com/nicoguaro/paraview_workshop.git
+
+Or download as a zip in
+
+- [https://github.com/nicoguaro/paraview_workshop/archive/master.zip](https://github.com/nicoguaro/paraview_workshop/archive/master.zip)
+
+------------------
+
 # What is Paraview?
 
 From Wikipedia:
@@ -53,26 +73,6 @@ More examples at:
 
 - Tecplot
 - Origin
-
-------------------
-
-# Installation
-
-You can download the most recent version of Paraview in the Official website and just run the installer in your machine:
-
-- [http://www.paraview.org/download/](http://www.paraview.org/download/)
-
-------------------
-
-# Tutorial Data
-
-You can clone the repo using:
-
-    git clone https://github.com/nicoguaro/paraview_workshop.git
-
-Or download as a zip in
-
-- [https://github.com/nicoguaro/paraview_workshop/archive/master.zip](https://github.com/nicoguaro/paraview_workshop/archive/master.zip)
 
 ------------------
 
@@ -214,3 +214,14 @@ And the output video would be
 - Utkarsh Ayachit. [The ParaView Guide: Community Edition](http://www.paraview.org/paraview-guide/). Kitware Inc, 2015.
 - Will Schroeder, Ken Martin, Bill Lorensen. [The Visualization Toolkit: An Object-Oriented Approach to 3D Graphics](http://www.kitware.com/products/books/VTKTextbook.pdf), Kitware Inc, 4th ed, 2006.
 - Kitware Inc, [The VTK User’s Guide](http://www.kitware.com/products/books/VTKUsersGuide.pdf). Kitware Inc, 11th ed, 2010.
+
+------------------
+
+# What else can we do?
+
+We can animate PacMan in ParaView
+<video controls
+    width=1000
+    class="centObj">
+    <source src="../img/PacMan.ogv" type="video/ogg">
+</video> 
