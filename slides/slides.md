@@ -119,7 +119,7 @@ Or download as a zip in
 # Paraview Graphic Interface
 
 <img src="../img/Paraview_UI.SVG"
-    width=1000
+    width=900
     class="centObj">
 
 ------------------
@@ -188,7 +188,23 @@ Or download as a zip in
 <img src="../img/Exercise3.png"
     width=900
     class="centObj">
-    
+
+------------------
+
+# Exercise 4
+
+<img src="../img/Exercise4.png"
+    width=1000
+    class="centObj">
+
+And the output video would be
+<video controls
+    width=1000
+    class="centObj">
+    <source src="../img/membrane_animation.ogv" type="video/ogg">
+</video> 
+
+
 ------------------
 
 # References
