@@ -10,25 +10,32 @@ Instructor: Nicolas Guarin-Zapta
 
 ## Installation Instructions
 
+**Note:** The instruction is going to use version 5.2, but any version newer than 5.0 should work for all the examples in the workshop.
+
+The preferred method of installation is to use an installer for your particular operative system.
+
+**Official download link:** [http://www.paraview.org/download/](http://www.paraview.org/download/)
+
+
 ### Windows
 
-You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/) (32 or 64 bits) and just run the installer in your machine.
+You can download the most recent version of ParaView in the [Official website](http://www.paraview.org/download/) (32 or 64 bits) and just run the installer in your machine.
 
 ### Mac OS
 
-You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/).
+You can download the most recent version of ParaView in the [Official website](http://www.paraview.org/download/).
 
 ### Linux
 
-You can download the most recent version of Paraview in the [Official website](http://www.paraview.org/download/), then extract the file with
+For major Linux distributions you will find a binary version of ParaView in your software manager. For example, in Ubuntu and Linux Mint you can find version 5.0. It is suggested to use this version.
+
+You can also, download the most recent version of ParaView in the [Official website](http://www.paraview.org/download/), then extract the file with
 
     mkdir paraview-5.1.2
     tar -xvf ParaView-5.1.2-Qt4-OpenGL2-MPI-Linux-64bit.tar.gz -C paraview-5.1.2 --strip-components=1
 
-or just use your favorite file manager. You can run Paraview using the executable
+or just use your favorite file manager. You can run ParaView using the executable
 in ``bin/paraview``. You might need to create a link to this file for future use.
-
-For major Linux distributions you will find a binary version of Paraview in your software manager. For example, in Ubuntu and Linux Mint you can find version 5.0. It is suggested to use this version.
 
 
 ## Downloading the Tutorial Materials
