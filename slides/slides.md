@@ -204,6 +204,37 @@ And the output video would be
     <source src="../img/membrane_animation.ogv" type="video/ogg">
 </video> 
 
+------------------
+
+# Exercise 5
+
+In ``Tools/Python Shell``
+
+    from paraview.simple import *
+    sphere = Sphere()
+    Show()
+    Render()
+    ResetCamera()
+
+we can create a filter
+
+    Hide()
+    shrink = Shrink()
+    Show()
+    Render()
+
+we can branch the pipeline
+
+    wireframe = ExtractEdges(Input=sphere)
+    Show()
+    Render()
+
+or modify the properties of the sphere
+
+    sphere.ThetaResolution = 100
+    sphere.PhiResolution = 50
+    Render()
+
 
 ------------------
 

@@ -211,6 +211,28 @@ Nicolas Guarin-Zapata<br/>email: nguarin@purdue.edu<br/>twitter: <span class="ci
     width=1000
     class="centObj"> <source src="../img/membrane_animation.ogv" type="video/ogg"> </video></p>
 </div>
+<div id="exercise-5" class="slide section level1">
+<h1>Exercise 5</h1>
+<p>In <code>Tools/Python Shell</code></p>
+<pre><code>from paraview.simple import *
+sphere = Sphere()
+Show()
+Render()
+ResetCamera()</code></pre>
+<p>we can create a filter</p>
+<pre><code>Hide()
+shrink = Shrink()
+Show()
+Render()</code></pre>
+<p>we can branch the pipeline</p>
+<pre><code>wireframe = ExtractEdges(Input=sphere)
+Show()
+Render()</code></pre>
+<p>or modify the properties of the sphere</p>
+<pre><code>sphere.ThetaResolution = 100
+sphere.PhiResolution = 50
+Render()</code></pre>
+</div>
 <div id="references" class="slide section level1">
 <h1>References</h1>
 <ul>
