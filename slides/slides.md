@@ -1,9 +1,9 @@
 % Paraview Tutorial
 % Nicolas Guarin-Zapata
-    email: nguarin@purdue.edu
+    email: nicoguarin@gmail.com
     twitter: @nicoguaro
     github: nicoguaro
-% October 26, 2016
+% June 2017
 
 
 ------------------
@@ -85,9 +85,9 @@ More examples at:
 
 ------------------
 
-# Why visualize?
+# Why visualize? Anscombe quartet
 
-<img src="../img/ascombe.svg"
+<img src="../img/anscombe.svg"
     width=900
     class="centObj">
     
@@ -101,7 +101,32 @@ More examples at:
   | Variance of each $y$ variable             | 4.12         |
   | Correlation between $x$ and $y$ variables | 0.816        |
   | Regression line                           | $y=3 + 0.5x$ |
+ 
+------------------
+
+# Why visualize? Datasaurus Dozen
+
+<img src="../img/datasaurus.svg"
+    width=250
+    class="centObj">
+
+<img src="../img/datasaurus-dozen.svg"
+    width=1000
+    class="centObj">
     
+- Matejka, Justin, and George Fitzmaurice. "Same stats, different
+  graphs: Generating datasets with varied appearance and identical
+  statistics through simulated annealing." Proceedings of the 2017
+  CHI Conference on Human Factors in Computing Systems. ACM, 2017.
+
+  | Property                                  |  Value       |
+  |-------------------------------------------|:------------:|
+  | Mean of each $x$ variable                 | 54.26        |
+  | Standard deviation of each $x$ variable   | 16.76        |
+  | Mean of each $y$ variable                 | 47.83        |
+  | Standard deviation of each $y$ variable   | 26.93        |
+  | Correlation between $x$ and $y$ variables | -0.06        |
+ 
 ------------------
 
 # Data Types

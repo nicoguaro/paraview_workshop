@@ -1,10 +1,10 @@
-# Paraview Workshop
+# Paraview Tutorial
 
-This is the repository for the Paraview Workshop at Purdue Unviersity on October 26, 2016.
+This is the repository for a Paraview Tutorial data.
 
 Instructor: Nicolas Guarin-Zapta
 
-- email: nguarin@purdue.edu
+- email: nicoguarin@gmail.com
 - twitter: @nicoguaro
 - github: nicoguaro
 
