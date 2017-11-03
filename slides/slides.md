@@ -3,7 +3,7 @@
     email: nicoguarin@gmail.com
     twitter: @nicoguaro
     github: nicoguaro
-% June 2017
+% October 2017
 
 
 ------------------
@@ -48,7 +48,7 @@ From Wikipedia:
     width=900
     class="centObj">
     <source src="../img/square_hole.ogv" type="video/ogg">
-</video> 
+</video>
 
 ------------------
 
@@ -90,7 +90,7 @@ More examples at:
 <img src="../img/anscombe.svg"
     width=900
     class="centObj">
-    
+
 - Anscombe, Francis J. (1973) Graphs in statistical analysis. American Statistician, 27, 17–21.
 
   | Property                                  |  Value       |
@@ -101,7 +101,7 @@ More examples at:
   | Variance of each $y$ variable             | 4.12         |
   | Correlation between $x$ and $y$ variables | 0.816        |
   | Regression line                           | $y=3 + 0.5x$ |
- 
+
 ------------------
 
 # Why visualize? Datasaurus Dozen
@@ -113,7 +113,7 @@ More examples at:
 <img src="../img/datasaurus-dozen.svg"
     width=1000
     class="centObj">
-    
+
 - Matejka, Justin, and George Fitzmaurice. "Same stats, different
   graphs: Generating datasets with varied appearance and identical
   statistics through simulated annealing." Proceedings of the 2017
@@ -126,7 +126,7 @@ More examples at:
   | Mean of each $y$ variable                 | 47.83        |
   | Standard deviation of each $y$ variable   | 26.93        |
   | Correlation between $x$ and $y$ variables | -0.06        |
- 
+
 ------------------
 
 # Data Types
@@ -143,7 +143,7 @@ More examples at:
 
 # Paraview Graphic Interface
 
-<img src="../img/Paraview_UI.SVG"
+<img src="../img/Paraview_UI.svg"
     width=900
     class="centObj">
 
@@ -154,7 +154,7 @@ More examples at:
 <img src="../img/paraview_toolbars.png"
     width=800
     class="centObj">
-    
+
 ------------------
 
 # Representations
@@ -205,7 +205,7 @@ More examples at:
 <img src="../img/Exercise2.png"
     width=900
     class="centObj">
-    
+
 ------------------
 
 # Exercise 3
@@ -227,7 +227,7 @@ And the output video would be
     width=1000
     class="centObj">
     <source src="../img/membrane_animation.ogv" type="video/ogg">
-</video> 
+</video>
 
 ------------------
 
@@ -280,4 +280,4 @@ We can animate PacMan in ParaView
     width=1000
     class="centObj">
     <source src="../img/PacMan.ogv" type="video/ogg">
-</video> 
+</video>
